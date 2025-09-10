@@ -1,11 +1,11 @@
 # Cyber-Portfolio
 Welcome to my professional cybersecurity portfolio. This repository showcases my practical skills and hands-on projects, demonstrating my ability to apply theoretical knowledge to real-world security challenges.
 
-As a CompTIA-certified professional with a strong foundation in A+, Network+, Security+, CySA+, and PenTest+, my goal is to transition into a hands-on technical role. This portfolio is a record of that journey. <br><br>
+As a CompTIA-certified professional with a strong foundation in A+, Network+, Security+, CySA+, and PenTest+, my goal is to transition into a hands-on technical role. This portfolio is a record of that journey. <br><br><br>
 
 
-Connect With Me
-Feel free to connect with me on LinkedIn to discuss my work or talk about cybersecurity.<br>
+Connect With Me<br>
+Feel free to connect with me on LinkedIn to discuss my work or talk about cybersecurity.
 
 LinkedIn: [Your LinkedIn Profile URL]<br><br><br><br>
 
