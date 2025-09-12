@@ -30,13 +30,20 @@ Each project below includes a detailed write-up of the challenge, my step-by-ste
 
 
 
-Project 1: [Project Title]<br>
+Project 1: My First Python Script<br>
 
-Goal: Briefly describe the objective of the project.<br>
+Goal: This project is a simple, interactive script that takes user input and demonstrates a variety of foundational Python concepts.<br>
 
-Skills Demonstrated: List the specific skills you used (e.g., Network Scanning, Privilege Escalation).<br>
+Skills Demonstrated: <br>
 
-Link to Project: [Link to a folder in your repository for this project]<br><br><br>
+- User interaction with print() and input().
+- Working with variables and string manipulation.
+- Type conversion using str() and int().
+- Applying built-in functions like len().
+- Using modern formatting with f-strings.
+- Writing concise and readable code by combining print() and input() statements. <br>
+
+Link to Project: [hello_world.py](https://github.com/TheSingingKnight/Cyber-Portfolio/blob/main/hello_world.py)<br><br><br>
 
 
 
