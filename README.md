@@ -43,7 +43,7 @@ Skills Demonstrated: <br>
 - Using modern formatting with f-strings.
 - Writing concise and readable code by combining print() and input() statements. <br>
 
-Link to Project: [hello_world.py](https://github.com/TheSingingKnight/Cyber-Portfolio/blob/main/hello_world.py)<br><br><br>
+Link to Project: [hello_world.py](https://github.com/TheSingingKnight/Cyber-Portfolio/blob/main/python-scripts/hello_world.py)<br><br><br>
 
 
 
