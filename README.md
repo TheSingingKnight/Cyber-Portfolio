@@ -1,59 +1,33 @@
-# Cyber-Portfolio
-Welcome to my professional cybersecurity portfolio. This repository showcases my practical skills and hands-on projects, demonstrating my ability to apply theoretical knowledge to real-world security challenges.
+# Cyber-Portfolio: Security Operations & Analytics
 
-As a CompTIA-certified professional with a strong foundation in A+, Network+, Security+, CySA+, and PenTest+, my goal is to transition into a hands-on technical role. This portfolio is a record of that journey. <br><br><br>
+Welcome to my professional portfolio, where I showcase my hands-on technical skills and commitment to mastering cybersecurity concepts.
 
+My expertise is formally validated by **completing the CompTIA Cybersecurity Career Pathway**, earning the **advanced** titles:
+* **CompTIA Network Security Professional (CNSP)**
+* **CompTIA Security Analytics Professional (CSAP)**
 
-Connect With Me<br>
-Feel free to connect with me on LinkedIn to discuss my work or talk about cybersecurity.
+This foundation covers the core domains of **A+, Network+, Security+, CySA+, and PenTest+** and demonstrates a mastery of the end-to-end security lifecycle.
 
-LinkedIn: [Your LinkedIn Profile URL]<br><br><br><br>
+My goal is to apply this structured knowledge in a hands-on role within **Security Operations Center (SOC) Analysis** or general Information Security. This repository serves as a **living record of my professional growth, demonstrating continuous skill development and application** throughout my career.
 
+## 🔗 Connect With Me
 
+* **LinkedIn:** www.linkedin.com/in/charlesftstjohn
 
+---
 
-Key Skills<br><br>
-Network & Host Reconnaissance: Nmap, Wireshark, Kali Linux.<br>
+## Portfolio Structure: Three Pillars of Skill
 
-Vulnerability Analysis & Exploitation: Metasploit, Burp Suite.<br>
+This portfolio is divided into three sections to demonstrate a well-rounded and practical skillset, **directly mapping to core industry job roles and security principles.**
 
-Threat Hunting & Analysis: SIEM tools (e.g., Splunk, ELK Stack).<br>
+Click the links below to explore projects and documentation organized by technical focus area.
 
-Scripting & Automation: Python, Bash Scripting.<br><br><br><br><br>
+| Pillar | Focus | Key Skills & Tools Demonstrated | Link to Projects |
+| :--- | :--- | :--- | :--- |
+| **1. Defensive Operations** | Threat detection, security monitoring, SIEM analysis, and incident response procedures. | Splunk/ELK, Wireshark, Incident Triage, SOC Procedures. | [Explore Defensive Projects](01_Defensive_Operations) |
+| **2. Offensive Operations** | Network and system reconnaissance, vulnerability scanning, and ethical exploitation. | Kali Linux, Nmap, Metasploit, Burp Suite, Web App Scanning. | [Explore Offensive Projects](02_Offensive_Operations) |
+| **3. Scripting & Automation** | Python, PowerShell, and Bash for automating security tasks, data parsing, and tool development. | Python (Data Processing, CLI tools), Bash, Automation. | [Explore Scripting Projects](03_Scripting_Automation) |
 
-
-
-
-
-Featured Projects<br>
-Each project below includes a detailed write-up of the challenge, my step-by-step methodology, and the tools I used.<br><br><br>
-
-
-
-Project 1: My First Python Script<br>
-
-Goal: This project is a simple, interactive script that takes user input and demonstrates a variety of foundational Python concepts.<br>
-
-Skills Demonstrated: <br>
-
-- User interaction with print() and input().
-- Working with variables and string manipulation.
-- Type conversion using str() and int().
-- Applying built-in functions like len().
-- Using modern formatting with f-strings.
-- Writing concise and readable code by combining print() and input() statements. <br>
-
-Link to Project: [hello_world.py](https://github.com/TheSingingKnight/Cyber-Portfolio/blob/main/python-scripts/hello_world.py)<br><br><br>
-
-
-
-Project 2: [Project Title]<br>
-
-Goal: Briefly describe the objective of the project.<br>
-
-Skills Demonstrated: List the specific skills you used.<br>
-
-Link to Project: [Link to a folder in your repository for this project]<br><br><br>
-
+*This portfolio is actively under development, with new projects added regularly.*
 
 
