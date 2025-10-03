@@ -19,5 +19,7 @@ Projects listed here are designed to be high-impact, security-focused tools that
 
 | Project Title | Focus | Status | Expected Skills/Tools |
 | :--- | :--- | :--- | :--- |
-| **Log File Parser (CSV)** | Writing a Python script to ingest a raw security log file and output key data into a readable format. | Planning | Python, CSV Module, File I/O, Error Handling |
-| **Automated System Check (Bash)** | Using a Bash script to perform basic health and security configuration checks on a Linux system. | Planning | Bash Scripting, Linux Commands, Cron Jobs |
+| **Log Ingestion & Parsing Tool** | A Python script that reads raw security logs, extracts key fields, and outputs clean, structured data for analysis. | Planning | Python, File I/O, **Regex**, **CSV/JSON/XML Parsing** |
+| **Simple Hash Analyzer** | A Python script that reads a text file of plaintext passwords, generates the SHA256 hash for each, demonstrating cryptographic concepts. | Planning | Python, **Hashing (`hashlib`)**, File I/O, Basic Cryptography |
+| **Threat Intelligence IP Checker** | A Python script that takes a list of IPs from a security alert and checks them against a public threat intelligence feed (via API). | Planning | Python, API Interaction, Dictionaries, List Comprehension |
+| **Automated System Check (Bash)** | Using a Bash script to perform basic health and security configuration checks on a Linux system. | Planning | Bash Scripting, Linux Commands, Automation, Cron Jobs |
