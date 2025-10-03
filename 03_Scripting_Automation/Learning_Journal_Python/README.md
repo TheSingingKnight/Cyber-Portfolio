@@ -8,7 +8,7 @@ This folder serves as a chronological record of my practical coding exercises, f
 | :--- | :--- | :--- | :--- | :--- |
 | **Ch 1** | Python Basics | Setup, Interpreter, Basic Operations | [`basics.py`](basics.py) | **Complete** |
 | **Ch 2** | If-Else and Flow Control | Conditional Logic and Boolean Operations | [`flow_control.py`](flow_control.py) | **Complete** |
-| **Ch 3** | Loops | Iteration using `while` and `for` loops | [`loop_practice.py`](loop_practice.py) | Planning |
+| **Ch 3** | Loops | Iteration using `while` and `for` loops | [`loop_practice.py`](loop_practice.py) | **Complete** |
 | **Ch 4** | Functions | Defining, calling, and using return values | [`collatz.py`](collatz.py) | Planning |
 | **Ch 5** | Debugging | Handling errors and using the traceback | [`debug_practice.py`](debug_practice.py) | Planning |
 | **Ch 6** | Lists | Mutable sequences, indexing, slicing, and methods | [`list_manipulation.py`](list_manipulation.py) | Planning |
