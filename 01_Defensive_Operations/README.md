@@ -8,6 +8,7 @@ The projects below showcase practical application of defensive principles, direc
 
 | Project Title | Focus | Status | Expected Skills/Tools |
 | :--- | :--- | :--- | :--- |
-| **SOC Triage & Alert Analysis** | Simulating a real-world alert, performing triage, and determining true positive vs. false positive. | Planning | Splunk/ELK, Incident Lifecycle, Documentation |
-| **Network Traffic Analysis** | Deep inspection of pcap files to identify malicious activity and data exfiltration techniques. | Planning | Wireshark, Protocol Analysis, Flow Data |
-| **Endpoint Security Monitoring** | Using an EDR solution to analyze an attack, isolate the host, and investigate the timeline of events. | Planning | EDR Tools (e.g., Wazuh), Host Forensics |
+| **Wazuh SIEM Deployment & Alert Triage** | Deploying an open-source SIEM/XDR platform and performing structured analysis on simulated security events. | **In Progress** | **Wazuh (SIEM/XDR)**, VirtualBox, Kali Linux, Incident Triage |
+| **Network Traffic Analysis (PCAP)** | Deep-dive inspection of a pre-captured network trace to identify protocols, anomalies, and signs of data exfiltration. | Planning | **Wireshark**, Protocol Analysis, TCP/IP Fundamentals, Flow Data |
+| **Linux Host Hardening & Baseline** | Applying security best practices (e.g., firewall rules, secure SSH) to a Linux host and establishing a secure configuration baseline. | Planning | **Linux CLI (iptables/ufw)**, SSH, Principle of Least Privilege |
+| **IOC Scanning & Threat Intel** | Automating the checking of file hashes and IP addresses against public **Threat Intelligence Feeds** (e.g., VirusTotal/OTX). | Planning | **Python Scripting**, API Interaction, OSINT, IOCs |
