@@ -1,6 +1,6 @@
 """
 Python Learning Journal: Chapter 6 - LISTS.
-File: lists_manipulation.py
+File: list_manipulation.py
 
 Focus: Using Python's built-in list structure to store data and implementing robust control flow
        to manage user interaction and data manipulation.
