@@ -12,7 +12,7 @@ This folder serves as a chronological record of my practical coding exercises, f
 | **Ch 4** | Functions | Defining, calling, and using return values | [`collatz.py`](collatz.py) | **Complete** |
 | **Ch 5** | Debugging | Handling errors and using the traceback | [`debug_practice.py`](debug_practice.py) | **Complete** |
 | **Ch 6** | Lists | Mutable sequences, indexing, slicing, and methods | [`list_manipulation.py`](list_manipulation.py) | **Complete** |
-| **Ch 7** | Dictionaries and Structuring Data | Key-value pairs; modeling security data structures | [`security_data_model.py`](nested_dictionary_guest_register.py) | **Complete** |
+| **Ch 7** | Dictionaries and Structuring Data | Key-value pairs; modeling security data structures | [`nested_dictionary_guest_register.py`](nested_dictionary_guest_register.py) | **Complete** |
 | **Ch 8** | Strings and Text Editing | String methods for data cleansing and preparation | [`text_prep.py`](text_prep.py) | Coming soon! |
 | **Ch 9** | **Regular Expressions (Regex)** | **Critical for Log Parsing and Data Extraction** | [`regex_extractor.py`](regex_extractor.py) | Planning (November) |
 | **Ch 10** | Reading and Writing Files | Interacting with security log files and documentation | [`file_io.py`](file_io.py) | Planning (November) |
