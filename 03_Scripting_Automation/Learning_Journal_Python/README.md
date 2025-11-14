@@ -16,7 +16,7 @@ This folder serves as a chronological record of my practical coding exercises, f
 | **Ch 8** | Strings and Text Editing | String methods for data cleansing and preparation | [`text_prep.py`](text_prep.py) | **Complete** |
 | **Ch 9** | **Regular Expressions (Regex)** | **Critical for Log Parsing and Data Extraction** | [`regex_extractor.py`](regex_extractor.py) | **Complete** |
 | **Ch 10** | Reading and Writing Files | Interacting with security log files and documentation | [`file_io.py`](file_io.py) | **Complete** |
-| **Ch 11** | Organizing Files | File system manipulation and automation | [`file_sorter.py`](file_sorter.py) | Coming soon! |
-| **Ch 12** | Designing and Deploying CLI Programs | Building simple tools for a security terminal | [`cli_tool.py`](cli_tool.py) | Planning (November) |
+| **Ch 11** | Organizing Files | File system manipulation and automation | [`file_sorter.py`](file_sorter.py) | **Complete** |
+| **Ch 12** | Designing and Deploying CLI Programs | Building simple tools for a security terminal | [`cli_tool.py`](cli_tool.py) | Coming soon! |
 | **Ch 18** | **CSV, JSON, and XML Files** | **CRITICAL:** Handling structured security data feeds/APIs | [`json_parser.py`](json_parser.py) | Planning (November) |
 | **Ch 19** | Keeping Time, Scheduling Tasks | Working with timestamps and scheduling automation | [`scheduler.py`](scheduler.py) | Planning (November) |
