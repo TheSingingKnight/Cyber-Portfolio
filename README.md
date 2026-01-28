@@ -1,33 +1,44 @@
-# Cyber-Portfolio: Security Operations & Analytics
+# 🛡️ The Singing Knight | Cybersecurity Operations & Analytics
 
-Welcome to my professional portfolio, where I showcase my hands-on technical skills and commitment to mastering cybersecurity concepts.
+> **Precision in performance; rigour in security.**
 
-My expertise is formally validated by **completing the CompTIA Cybersecurity Career Pathway**, earning the **advanced** titles:
-* **CompTIA Network Security Professional (CNSP)**
-* **CompTIA Security Analytics Professional (CSAP)**
+Welcome to my professional portfolio.<br>
+This repository serves as a **living record of my technical evolution**, demonstrating how I apply the elite discipline of a **Professional Tenor** and the tactical strategy of a former **Great Britain international fencer** to the domain of Information Security.
 
-This foundation covers the core domains of **A+, Network+, Security+, CySA+, and PenTest+** and demonstrates a mastery of the end-to-end security lifecycle.
+## 🎓 Formally Validated Expertise
+My foundation is built upon the **CompTIA Cybersecurity Career Pathway**, representing a comprehensive understanding of the end-to-end security lifecycle:
 
-My goal is to apply this structured knowledge in a hands-on role within **Security Operations Center (SOC) Analysis** or general Information Security. This repository serves as a **living record of my professional growth, demonstrating continuous skill development and application** throughout my career.
+* **CompTIA PenTest+** (Offensive Security Foundations)
+* **CompTIA CySA+** (Security Analytics)
+* **CompTIA Security+** (Security Fundamentals)
+* **CompTIA Network+** (Infrastructure & Networking)
+* **CompTIA A+** (Core Technical Support)
 
-## 🔗 Connect With Me
-
-* **LinkedIn:** www.linkedin.com/in/charlesftstjohn
+**Professional Stackable Designations:**
+* **CSAP** (Security Analytics Professional)
+* **CNVP** (Network Vulnerability Professional)
+* **CNSP** (Network Security Professional)
+* **CSIS** (Secure Infrastructure Specialist)
+* **CIOS** (IT Operations Specialist)
 
 ---
 
-## Portfolio Structure: Three Pillars of Skill
+## 🔗 Connect & Verify
+* **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/charlesftstjohn)
+* **Digital CV:** [Download CV](./Charles_St_John_Cybersecurity_CV.docx)
 
-This portfolio is divided into three sections to demonstrate a well-rounded and practical skillset, **directly mapping to core industry job roles and security principles.**
+---
 
-Click the links below to explore projects and documentation organized by technical focus area.
+## 🏛️ Portfolio Pillars: Development Roadmap
 
-| Pillar | Focus | Key Skills & Tools Demonstrated | Link to Projects |
+This portfolio is structured to demonstrate both **certified theoretical knowledge** and my **hands-on learning journey**.<br>
+To maintain professional transparency, project status is updated according to my current development roadmap.
+
+| Pillar | Focus | Key Concepts & Tools | Status |
 | :--- | :--- | :--- | :--- |
-| **1. Defensive Operations** | Threat detection, security monitoring, SIEM analysis, and incident response procedures. | Splunk/ELK, Wireshark, Incident Triage, SOC Procedures. | [Explore Defensive Projects](01_Defensive_Operations) |
-| **2. Offensive Operations** | Network and system reconnaissance, vulnerability scanning, and ethical exploitation. | Kali Linux, Nmap, Metasploit, Burp Suite, Web App Scanning. | [Explore Offensive Projects](02_Offensive_Operations) |
-| **3. Scripting & Automation** | Python, PowerShell, and Bash for automating security tasks, data parsing, and tool development. | Python (Data Processing, CLI tools), Bash, Automation. | [Explore Scripting Projects](03_Scripting_Automation) |
+| **1. Defensive Operations** | Threat detection and monitoring. | Splunk/ELK, Wireshark, Nmap, SOC Triage. | **Planned: March 2026** |
+| **2. Offensive Operations** | Reconnaissance and scanning. | Kali Linux, Metasploit, Nmap, PenTest Methods. | **Planned: March 2026** |
+| **3. Scripting & Automation** | Learning journey & functional utilities. | Python (Logic & Flow), Bash/PowerShell CLI. | **Active Revision** |
 
-*This portfolio is actively under development, with new projects added regularly.*
-
+**Current Project Priority:** Successfully delivering a high-stakes operatic contract, followed by a technical lab sprint and Python automation block in March 2026.
 
