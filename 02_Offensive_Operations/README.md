@@ -1,14 +1,35 @@
-# 🔴 Offensive Operations: Vulnerability Assessment and Reconnaissance
+# 🔴 Pillar 2: Offensive Operations
 
-This section demonstrates ethical hacking techniques, showing proficiency in reconnaissance, vulnerability scanning, and understanding common attack vectors. This knowledge is crucial for proactive defense and threat hunting.
+<br>
+Welcome to the offensive operations and reconnaissance hub.
+<br><br>
+This section demonstrates the application of ethical hacking techniques, showing proficiency in reconnaissance, vulnerability scanning, and understanding common attack vectors. This knowledge is crucial for proactive defence and effective threat hunting.
 
-The projects below align with the practical knowledge validated by the CompTIA PenTest+ certification domains.
+<br>The projects below showcase the practical application of offensive principles, directly mapping to the knowledge validated by my **CompTIA PenTest+** certification.
 
-## Projects
+## 🏛️ The Offensive Strategy
+In line with my **"Measure Four Times and Cut Once"** philosophy, I prioritise a structured approach to every engagement:
+* **Information Gathering:** Exhaustive reconnaissance to map the attack surface.
+* **Vulnerability Analysis:** Systematic identification of weaknesses before attempting exploitation.
+* **Precision Exploitation:** Using targeted payloads to verify vulnerabilities while maintaining system stability.
+
+<br>
+
+## 📂 Showcase Projects (March 2026 "Truth Lab")
 
 | Project Title | Focus | Status | Expected Skills/Tools |
 | :--- | :--- | :--- | :--- |
-| **Active Reconnaissance & Service Enumeration** | Full network discovery and detailed service enumeration of a local lab environment. | Planned for January | **Nmap**, Kali Linux, Port Scanning, Service Versioning |
-| **Basic Web App Penetration Test** | Identifying common web vulnerabilities (e.g., XSS, SQLi) in a test application (e.g., Metasploitable 2's DVWA). | Planned for January | **Burp Suite Community**, OWASP Top 10, Injection, Cross-Site Scripting |
-| **Metasploit Exploit, Payload, and Post-Exploitation** | Using a structured method to gain initial access, deploy a payload, and establish persistence on a vulnerable machine (Metasploitable 2). | Planned for January | **Metasploit Framework**, Meterpreter, Privilege Escalation |
-| **Offline Password Cracking Simulation** | Capturing a vulnerable hash and performing an offline dictionary attack to retrieve the original password. | Planned for January | **John the Ripper/Hashcat**, Wordlists, Hashing Concepts |
+| **Active Recon & Service Enumeration** | Full network discovery and detailed service enumeration of a local lab environment. | **Planned: March 2026** | Nmap, Kali Linux, Port Scanning, Service Versioning. |
+| **Exploitation & Post-Exploitation** | Using a structured method to gain initial access and establish persistence on a vulnerable machine. | **Planned: March 2026** | Metasploit Framework, Meterpreter, Privilege Escalation. |
+
+<br>
+
+## 🚀 Future Roadmap
+The following labs are slated for development following the completion of the March baseline sprint:
+* **Basic Web App Penetration Test:** Identifying common vulnerabilities (XSS, SQLi) in test applications using **Burp Suite Community**.
+* **Offline Password Cracking:** Performing dictionary attacks to retrieve plaintext passwords from captured hashes using **John the Ripper/Hashcat**.
+* **Wireless Security Audit:** Exploring WPA2/WPA3 vulnerabilities and capture-file analysis in a controlled environment.
+
+---
+
+**Current Status:** Focused on high-stakes operatic contract completion. Week 3 of the March 2026 "Truth Lab" is dedicated to the practical verification of PenTest+ theory via Nmap and Metasploit labs.
