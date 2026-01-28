@@ -1,25 +1,29 @@
-# 🐍 Scripting & Automation: Efficiency and Tool Development
+# 🐍 Pillar 3: Scripting & Automation
 
-This section showcases my ability to use scripting languages like Python and Bash to automate repetitive security tasks, parse data, and develop simple command-line tools. Scripting is a vital skill for increasing efficiency in any SOC or security engineering role.
+<br>
+Welcome to the scripting hub of my portfolio.
+<br><br>
 
-## Project Directories
+This section is structured to demonstrate my **methodical approach** to technical development and the **practical utility** of my work in Python.
 
-This pillar is organized into the following areas:
+## 📂 Project Tracks
 
-| Directory | Purpose | Link |
-| :--- | :--- | :--- |
-| **Final Scripts** | Polished, production-ready security tools with comprehensive documentation. | [Final Scripts Security](Final_Scripts_Security) |
-| **Learning Journal** | A chronological record of foundational coding progress and exercises. | [Learning Journal Python](Learning_Journal_Python) |
+### 🏛️ [Learning Python Journey](./Learning_Python_Journey)
+A granular record of my foundational steps into Python development.
+<br>
+These modules showcase:
+* **Core Logic:** Mastering syntax, flow control, and data structures.
+* **Methodical Growth:** A step-by-step documentation of the "Measure Four Times" learning process.
+* **Technical Discipline:** Demonstrating the commitment required to transition into a new technical language.
+
+### 🛡️ [Foundational Scripts & Utilities](./Final_Scripts_Security)
+Simple, functional tools built to solve specific tasks using core Python logic.
+<br>
+These projects focus on:
+* **Practical Utility:** Initial tools developed for basic data parsing and reconnaissance.
+* **Code Integrity:** Clean, commented code that prioritises readability and basic error handling.
+* **Logic over Complexity:** Demonstrating that a sturdy foundational base leads to reliable technical output.
 
 ---
 
-## High-Value Projects Showcase
-
-Projects listed here are designed to be high-impact, security-focused tools that will eventually be promoted to the **Final Scripts** directory once complete.
-
-| Project Title | Focus | Status | Expected Skills/Tools |
-| :--- | :--- | :--- | :--- |
-| **Log Ingestion & Parsing Tool** | A Python script that reads raw security logs, extracts key fields, and outputs clean, structured data for analysis. | Planning | Python, File I/O, **Regex**, **CSV/JSON/XML Parsing** |
-| **Simple Hash Analyzer** | A Python script that reads a text file of plaintext passwords, generates the SHA256 hash for each, demonstrating cryptographic concepts. | Planning | Python, **Hashing (`hashlib`)**, File I/O, Basic Cryptography |
-| **Threat Intelligence IP Checker** | A Python script that takes a list of IPs from a security alert and checks them against a public threat intelligence feed (via API). | Planning | Python, API Interaction, Dictionaries, List Comprehension |
-| **Automated System Check (Bash)** | Using a Bash script to perform basic health and security configuration checks on a Linux system. | Planning | Bash Scripting, Linux Commands, Automation, Cron Jobs |
+**Current Status:** Active revision of foundational modules. March 2026 is designated for a "Methodical Maintenance" track, re-establishing core logic alongside primary security lab work.
