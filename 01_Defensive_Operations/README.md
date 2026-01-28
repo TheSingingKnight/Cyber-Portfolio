@@ -15,7 +15,7 @@ In line with my **"Measure Four Times and Cut Once"** philosophy, I prioritise t
 
 <br>
 
-## 📂 Showcase Projects (March 2026 "Truth Lab")
+## 📂 Showcase Projects: The Technical Bridge (2026)
 
 | Project Title | Focus | Status | Expected Skills/Tools |
 | :--- | :--- | :--- | :--- |
@@ -33,4 +33,4 @@ The following labs are slated for development following the completion of the Ma
 
 ---
 
-**Current Status:** Focused on high-stakes operatic contract completion. March 2026 is designated for the primary Splunk and Nessus lab deployments to strengthen the "Practical Gap" in defensive operations.
+**Current Status:** Focused on high-stakes operatic contract completion. March 2026 is designated for the Technical Bridge baseline sprint, the primary Splunk and Nessus lab deployments to strengthen the "Practical Gap" in defensive operations.
