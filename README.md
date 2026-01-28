@@ -25,7 +25,7 @@ My foundation is built upon the **CompTIA Cybersecurity Career Pathway**, repres
 
 ## 🔗 Connect & Verify
 * **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/charlesftstjohn)
-* **Digital CV:** [Download CV](./Charles_St_John_Cybersecurity_CV.docx)
+* **Digital CV:** [Download CV (Direct Download)](./Charles_St_John_Cybersecurity_CV.docx?raw=true)
 
 ---
 
@@ -36,9 +36,9 @@ To maintain professional transparency, project status is updated according to my
 
 | Pillar | Focus | Key Concepts & Tools | Status |
 | :--- | :--- | :--- | :--- |
-| **1. Defensive Operations** | Threat detection and monitoring. | Splunk/ELK, Wireshark, Nmap, SOC Triage. | **Planned: March 2026** |
-| **2. Offensive Operations** | Reconnaissance and scanning. | Kali Linux, Metasploit, Nmap, PenTest Methods. | **Planned: March 2026** |
-| **3. Scripting & Automation** | Learning journey & functional utilities. | Python (Logic & Flow), Bash/PowerShell CLI. | **Active Revision** |
+| [**1. Defensive Operations**](./01_Defensive_Operations) | Threat detection and monitoring. | Splunk/ELK, Wireshark, Nmap, SOC Triage. | **Planned: March 2026** |
+| [**2. Offensive Operations**](./02_Offensive_Operations) | Reconnaissance and scanning. | Kali Linux, Metasploit, Nmap, PenTest Methods. | **Planned: March 2026** |
+| [**3. Scripting & Automation**](./03_Scripting_Automation) | Learning journey & functional utilities. | Python (Logic & Flow), Bash/PowerShell CLI. | **Active Revision** |
 
 **Current Project Priority:** Successfully delivering a high-stakes operatic contract, followed by a technical lab sprint and Python automation block in March 2026.
 
