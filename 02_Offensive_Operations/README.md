@@ -15,7 +15,7 @@ In line with my **"Measure Four Times and Cut Once"** philosophy, I prioritise a
 
 <br>
 
-## 📂 Showcase Projects (March 2026 "Truth Lab")
+## 📂 Showcase Projects: The Technical Bridge (2026)
 
 | Project Title | Focus | Status | Expected Skills/Tools |
 | :--- | :--- | :--- | :--- |
@@ -32,4 +32,4 @@ The following labs are slated for development following the completion of the Ma
 
 ---
 
-**Current Status:** Focused on high-stakes operatic contract completion. Week 3 of the March 2026 "Truth Lab" is dedicated to the practical verification of PenTest+ theory via Nmap and Metasploit labs.
+**Current Status:** Focused on high-stakes operatic contract completion. Week 3 of The Technical Bridge is dedicated to practical verification of PenTest+ theory via Nmap and Metasploit labs.
