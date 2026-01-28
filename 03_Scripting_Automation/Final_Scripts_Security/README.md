@@ -1,14 +1,33 @@
-# 💻 Final Scripts: Polished Security Automation Tools
+# 🛡️ Foundational Scripts & Utilities
 
-This directory is reserved for completed, polished Python and Bash scripts designed to solve specific security problems. These scripts demonstrate practical application of skills in data parsing, file manipulation, and automation—core competencies for a Security Operations Center (SOC) role.
+<br>
+Welcome to the "Production Ready" zone of my scripting journey. 
+<br><br>
+This directory is reserved for polished Python and Bash utilities designed to solve specific security problems. These scripts demonstrate the practical application of core competencies—data parsing, file manipulation, and automation—essential for a <strong>Security Operations Center (SOC)</strong> role.
 
-Projects listed here are designed to be production-ready and include comprehensive documentation.
+## 🛠️ The Quality Standard
+In line with my **"Measure Four Times and Cut Once"** philosophy, every project listed here adheres to the following standards:
+* **Production-Ready:** Clean code that handles errors gracefully.
+* **Comprehensive Documentation:** Clear instructions on how to run and interpret the output.
+* **Logic-First:** Prioritising sound logical structure over unnecessary complexity.
 
-## Showcase Projects
+<br>
+
+## 📂 Showcase Projects
 
 | Project Title | Goal | Key Skills Demonstrated | Status |
 | :--- | :--- | :--- | :--- |
-| **Log Ingestion & Parsing Tool** | A Python script that reads raw security logs (CSV/JSON/XML), extracts key fields (IPs, timestamps), and outputs clean, structured data for analysis. | Python, File I/O, **Regex**, **CSV/JSON/XML Parsing**, Error Handling | Planned for March |
-| **Simple System Health Check** | A Bash script to automatically check the security configuration (e.g., firewall status, services running) of a Linux host and report the findings. | Bash Scripting, Linux Commands, Automation, File Output | Planned for March |
-| **Threat Intelligence IP Checker** | A Python script that takes a list of IP addresses from a security alert and checks them against a public threat intelligence feed (via API). | Python, API Interaction, **Dictionaries**, List Comprehension | Planned for March |
-| **Simple Hash Analyzer** | A Python script that reads a text file of plaintext passwords, generates the SHA256 hash for each, and outputs the result, demonstrating simple cryptographic concepts. | Python, **Hashing (`hashlib`)**, File I/O, Basic Cryptography Concepts | Planned for March |
+| **Log Ingestion & Parsing Tool** | A Python script that extracts key fields (IPs, timestamps) from raw logs and outputs structured data. | Python, File I/O, Regex, Error Handling. | **Planned: Late March 2026** |
+
+<br>
+
+## 🚀 Future Roadmap
+As my development roadmap expands, the following utilities are slated for production:
+* **Simple System Health Check:** A Bash script to audit security configurations (firewall, services) on a Linux host.
+* **Simple Hash Analyzer:** A script that generates SHA256 hashes for files to demonstrate cryptographic integrity using the `hashlib` library.
+* **Threat Intelligence IP Checker:** Integrating public threat feeds via API interaction.
+* **Automated Log Scheduler:** Implementing task scheduling for recurring security audits.
+
+---
+
+**Current Status:** Focused on core Python revision (Chapters 1–5). Late March 2026 is dedicated to the development of the Log Ingestion & Parsing Tool as a primary foundational utility.
