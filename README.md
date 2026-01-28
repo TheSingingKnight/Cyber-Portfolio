@@ -1,6 +1,6 @@
 # 🛡️ The Singing Knight | Cybersecurity Operations & Analytics
 
-> **Precision in performance; rigour in security.**
+> **Classical Discipline. Tactical Strategy. Technical Precision.**
 
 <br>Welcome to my professional portfolio.<br><br>
 This repository serves as a **living record of my technical evolution**, demonstrating how I apply the elite discipline of a **Professional Tenor** and the tactical strategy of a former **Great Britain international fencer** to the domain of Information Security.
