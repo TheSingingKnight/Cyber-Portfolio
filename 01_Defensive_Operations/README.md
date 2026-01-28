@@ -1,14 +1,36 @@
-# 🛡️ Defensive Operations: Threat Detection and Triage
+# 🛡️ Pillar 1: Defensive Operations
 
-This section focuses on core **Security Operations Center (SOC)** skills, demonstrating my ability to use security tools for monitoring, analysis, and structured incident response.
+<br>
+Welcome to the defensive operations hub.
+<br><br>
+This section focuses on core <strong>Security Operations Center (SOC)</strong> skills, demonstrating my ability to use industry-standard tools for monitoring, analysis, and structured incident response. 
 
-The projects below showcase practical application of defensive principles, directly mapping to the knowledge validated by CompTIA CySA+ and Security+ certification domains.
+<br>The projects below showcase the practical application of defensive principles, directly mapping to the knowledge validated by my **CompTIA CySA+** and **Security+** certifications.
 
-## Projects
+## 🏛️ The Defensive Strategy
+In line with my **"Measure Four Times and Cut Once"** philosophy, I prioritise the following in every lab:
+* **Visibility:** Ensuring full log coverage and clear data ingestion.
+* **Accuracy:** Reducing false positives through refined alerting rules.
+* **Methodical Analysis:** Following structured triage processes (e.g., NIST/SANS) to document and mitigate threats.
+
+<br>
+
+## 📂 Showcase Projects (March 2026 "Truth Lab")
 
 | Project Title | Focus | Status | Expected Skills/Tools |
 | :--- | :--- | :--- | :--- |
-| **Wazuh SIEM Deployment & Alert Triage** | Deploying an open-source SIEM/XDR platform and performing structured analysis on simulated security events. | Planned for December | **Wazuh (SIEM/XDR)**, VirtualBox, Kali Linux, Incident Triage |
-| **Network Traffic Analysis (PCAP)** | Deep-dive inspection of a pre-captured network trace to identify protocols, anomalies, and signs of data exfiltration. | Planned for December | **Wireshark**, Protocol Analysis, TCP/IP Fundamentals, Flow Data |
-| **Linux Host Hardening & Baseline** | Applying security best practices (e.g., firewall rules, secure SSH) to a Linux host and establishing a secure configuration baseline. | Planned for December | **Linux CLI (iptables/ufw)**, SSH, Principle of Least Privilege |
-| **IOC Scanning & Threat Intel** | Automating the checking of file hashes and IP addresses against public **Threat Intelligence Feeds** (e.g., VirusTotal/OTX). | Planned for December | **Python Scripting**, API Interaction, OSINT, IOCs |
+| **Splunk SIEM Ingestion & Triage** | Deploying a home-lab SIEM and performing structured analysis on ingested security events. | **Planned: March 2026** | Splunk (SIEM), VirtualBox, Sysmon, Incident Triage. |
+| **Vulnerability Management (Nessus)** | Performing credentialed and non-credentialed scans on a lab network to identify and risk-score vulnerabilities. | **Planned: March 2026** | Nessus Essentials, Risk Assessment, CVSS Scoring. |
+
+<br>
+
+## 🚀 Future Roadmap
+The following labs are slated for development following the completion of the March baseline sprint:
+* **Network Traffic Analysis (PCAP):** Deep-dive inspection of network traces to identify anomalies and signs of data exfiltration using **Wireshark**.
+* **Linux Host Hardening:** Applying secure configuration baselines (UFW/SSH hardening) to a Linux host.
+* **IOC Scanning & Threat Intel:** Automating the checking of hashes and IPs against public feeds via Python utilities.
+* **Wazuh SIEM/XDR Exploration:** Secondary SIEM deployment for comparative analysis of XDR features.
+
+---
+
+**Current Status:** Focused on high-stakes operatic contract completion. March 2026 is designated for the primary Splunk and Nessus lab deployments to strengthen the "Practical Gap" in defensive operations.
