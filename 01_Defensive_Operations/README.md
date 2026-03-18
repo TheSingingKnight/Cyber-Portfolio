@@ -19,13 +19,13 @@ In line with my **"Measure Four Times and Cut Once"** philosophy, I prioritise t
 
 | Project Title | Focus | Status | Expected Skills/Tools |
 | :--- | :--- | :--- | :--- |
-| **Splunk SIEM Ingestion & Triage** | Deploying a home-lab SIEM and performing structured analysis on ingested security events. | **Planned: March 2026** | Splunk (SIEM), VirtualBox, Sysmon, Incident Triage. |
-| **Vulnerability Management (Nessus)** | Performing credentialed and non-credentialed scans on a lab network to identify and risk-score vulnerabilities. | **Planned: March 2026** | Nessus Essentials, Risk Assessment, CVSS Scoring. |
+| **Splunk SIEM Ingestion & Triage** | Deploying a home-lab SIEM and performing structured analysis on ingested security events. | **Planned: May 2026** | Splunk (SIEM), VirtualBox, Sysmon, Incident Triage. |
+| **Vulnerability Management (Nessus)** | Performing credentialed and non-credentialed scans on a lab network to identify and risk-score vulnerabilities. | **Planned: May 2026** | Nessus Essentials, Risk Assessment, CVSS Scoring. | 
 
 <br>
 
 ## 🚀 Future Roadmap
-The following labs are slated for development following the completion of the March baseline sprint:
+The following labs are slated for development following the completion of the **May** baseline sprint:
 * **Network Traffic Analysis (PCAP):** Deep-dive inspection of network traces to identify anomalies and signs of data exfiltration using **Wireshark**.
 * **Linux Host Hardening:** Applying secure configuration baselines (UFW/SSH hardening) to a Linux host.
 * **IOC Scanning & Threat Intel:** Automating the checking of hashes and IPs against public feeds via Python utilities.
@@ -33,4 +33,5 @@ The following labs are slated for development following the completion of the Ma
 
 ---
 
-**Current Status:** Focused on high-stakes operatic contract completion. March 2026 is designated for the Technical Bridge baseline sprint, the primary Splunk and Nessus lab deployments to strengthen the "Practical Gap" in defensive operations.
+**Current Status:** Relocated for high-stakes operatic contract completion. May 2026 is designated for the **Technical Bridge** baseline sprint—deploying primary Splunk and Nessus labs to strengthen the practical gap in defensive operations.
+
