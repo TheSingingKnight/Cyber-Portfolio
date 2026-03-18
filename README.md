@@ -36,9 +36,9 @@ To maintain professional transparency, project status is updated according to my
 
 | Pillar | Focus | Key Concepts & Tools | Status |
 | :--- | :--- | :--- | :--- |
-| [**1. Defensive Operations**](./01_Defensive_Operations) | Threat detection and monitoring. | Splunk/ELK, Wireshark, Nmap, SOC Triage. | **Planned: March 2026** |
-| [**2. Offensive Operations**](./02_Offensive_Operations) | Reconnaissance and scanning. | Kali Linux, Metasploit, Nmap, PenTest Methods. | **Planned: March 2026** |
+| [**1. Defensive Operations**](./01_Defensive_Operations) | Threat detection and monitoring. | Splunk/ELK, Wireshark, Nmap, SOC Triage. | **Planned: May 2026** |
+| [**2. Offensive Operations**](./02_Offensive_Operations) | Reconnaissance and scanning. | Kali Linux, Metasploit, Nmap, PenTest Methods. | **Planned: May 2026** |
 | [**3. Scripting & Automation**](./03_Scripting_Automation) | Learning journey & functional utilities. | Python (Logic & Flow), Bash/PowerShell CLI. | **Active Revision** |
 
-**Current Project Priority:** Successfully delivering a high-stakes operatic contract, followed by a technical lab sprint and Python automation block in March 2026.
+**Current Project Priority:** Successfully delivering a high-stakes operatic contract and managing a **Financial Data Integrity & GRC** project in London. The technical lab sprint (Splunk/Nessus) is scheduled for **May 2026**.
 
