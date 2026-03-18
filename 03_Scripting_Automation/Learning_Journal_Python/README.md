@@ -39,4 +39,4 @@ My goal for each script is:
 
 **Current Status:** Active Revision of Chapters 1–5.
 <br>
-**Maintenance Goal:** A targeted refamiliarisation sprint in March 2026 to ensure the foundation is sturdy enough for the eventual development of a simple IP/Log parser utility.
+**Maintenance Goal:** A targeted refamiliarisation sprint in **May 2026** to ensure the foundation is sturdy enough for the eventual development of a simple IP/Log parser utility.
