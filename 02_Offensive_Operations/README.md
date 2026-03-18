@@ -19,17 +19,19 @@ In line with my **"Measure Four Times and Cut Once"** philosophy, I prioritise a
 
 | Project Title | Focus | Status | Expected Skills/Tools |
 | :--- | :--- | :--- | :--- |
-| **Active Recon & Service Enumeration** | Full network discovery and detailed service enumeration of a local lab environment. | **Planned: March 2026** | Nmap, Kali Linux, Port Scanning, Service Versioning. |
-| **Exploitation & Post-Exploitation** | Using a structured method to gain initial access and establish persistence on a vulnerable machine. | **Planned: March 2026** | Metasploit Framework, Meterpreter, Privilege Escalation. |
+| **Active Recon & Service Enumeration** | Full network discovery and detailed service enumeration of a local lab environment. | **Planned: May 2026** | Nmap, Kali Linux, Port Scanning, Service Versioning. |
+| **Exploitation & Post-Exploitation** | Using a structured method to gain initial access and establish persistence on a vulnerable machine. | **Planned: May 2026** | Metasploit Framework, Meterpreter, Privilege Escalation. |
 
 <br>
 
 ## 🚀 Future Roadmap
-The following labs are slated for development following the completion of the March baseline sprint:
+The following labs are slated for development following the completion of the **May** baseline sprint:
 * **Basic Web App Penetration Test:** Identifying common vulnerabilities (XSS, SQLi) in test applications using **Burp Suite Community**.
 * **Offline Password Cracking:** Performing dictionary attacks to retrieve plaintext passwords from captured hashes using **John the Ripper/Hashcat**.
 * **Wireless Security Audit:** Exploring WPA2/WPA3 vulnerabilities and capture-file analysis in a controlled environment.
 
 ---
 
-**Current Status:** Focused on high-stakes operatic contract completion. Week 3 of The Technical Bridge is dedicated to practical verification of PenTest+ theory via Nmap and Metasploit labs.
+**Current Status:** Focused on high-stakes operatic contract completion. May 2026 is dedicated to the **Technical Bridge** baseline sprint—practical verification of PenTest+ theory via Nmap and Metasploit labs.
+
+
