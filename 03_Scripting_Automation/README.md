@@ -26,4 +26,4 @@ These projects focus on:
 
 ---
 
-**Current Status:** Active revision of foundational modules. March 2026 is designated for a "Methodical Maintenance" track, re-establishing core logic alongside primary security lab work.
+**Current Status:** Active revision of foundational modules. **May 2026** is designated for a "Methodical Maintenance" track, re-establishing core logic alongside primary security lab work.
