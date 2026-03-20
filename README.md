@@ -25,7 +25,7 @@ My foundation is built upon the **CompTIA Cybersecurity Career Pathway**, repres
 
 ## 🔗 Connect & Verify
 * **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/charlesftstjohn)
-* **Digital CV:** [Download CV (Direct Download)](./Charles_St_John_Cybersecurity_CV.docx?raw=true)
+* **Digital CV:** [Download CV (Direct Download)](https://github.com/TheSingingKnight/Cyber-Portfolio/raw/main/Charles_St_John_Cybersecurity_CV.docx)
 
 ---
 
