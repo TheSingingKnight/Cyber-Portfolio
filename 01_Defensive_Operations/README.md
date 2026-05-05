@@ -19,8 +19,8 @@ In line with my **"Measure Four Times and Cut Once"** philosophy, I prioritise t
 
 | Project Title | Focus | Status | Expected Skills/Tools |
 | :--- | :--- | :--- | :--- |
-| **Splunk SIEM Ingestion & Triage** | Deploying a home-lab SIEM and performing structured analysis on ingested security events. | **Planned: May 2026** | Splunk (SIEM), VirtualBox, Sysmon, Incident Triage. |
-| **Vulnerability Management (Nessus)** | Performing credentialed and non-credentialed scans on a lab network to identify and risk-score vulnerabilities. | **Planned: May 2026** | Nessus Essentials, Risk Assessment, CVSS Scoring. | 
+| **Windows Endpoint Monitoring & SIEM Ingestion ** | Building visibility. Deploying **Sysmon** on Windows 10 and ingesting logs into **Splunk**.  | **Planned: May 2026** | Splunk (SIEM), VirtualBox, Sysmon, Win10 VM. |
+| **Vulnerability Management & Risk Assessment (Nessus)** | Scanning the range. Performing credentialed audits of the Windows VM and Metasploitable 2. | **Planned: May 2026** | Nessus Essentials, Risk Assessment, CVSS Scoring. | 
 
 <br>
 
@@ -34,4 +34,5 @@ The following labs are slated for development following the completion of the **
 ---
 
 **Current Status:** Relocated for high-stakes operatic contract completion. May 2026 is designated for the **Technical Bridge** baseline sprint—deploying primary Splunk and Nessus labs to strengthen the practical gap in defensive operations.
+
 
