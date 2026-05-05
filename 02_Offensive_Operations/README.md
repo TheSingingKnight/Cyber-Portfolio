@@ -19,8 +19,7 @@ In line with my **"Measure Four Times and Cut Once"** philosophy, I prioritise a
 
 | Project Title | Focus | Status | Expected Skills/Tools |
 | :--- | :--- | :--- | :--- |
-| **Active Recon & Service Enumeration** | Full network discovery and detailed service enumeration of a local lab environment. | **Planned: May 2026** | Nmap, Kali Linux, Port Scanning, Service Versioning. |
-| **Exploitation & Post-Exploitation** | Using a structured method to gain initial access and establish persistence on a vulnerable machine. | **Planned: May 2026** | Metasploit Framework, Meterpreter, Privilege Escalation. |
+| **The Adversarial Lifecycle: From Recon to Persistence** | The full attack. Using **Nmap** for discovery, then **Metasploit** to exploit the flaws found in the Nessus scan.  | **Planned: May 2026** | Nmap, Kali Linux, Port Scanning, Service Versioning, Metasploit. |
 
 <br>
 
