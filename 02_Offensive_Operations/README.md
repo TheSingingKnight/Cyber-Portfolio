@@ -19,7 +19,7 @@ In line with my **"Measure Four Times and Cut Once"** philosophy, I prioritise a
 
 | Project Title | Focus | Status | Expected Skills/Tools |
 | :--- | :--- | :--- | :--- |
-| **The Adversarial Lifecycle: From Recon to Persistence** | The full attack. Using **Nmap** for discovery, then **Metasploit** to exploit the flaws found in the Nessus scan.  | **Planned: May 2026** | Nmap, Kali Linux, Port Scanning, Service Versioning, Metasploit. |
+| **[The Adversarial Lifecycle: From Recon to Persistence](Project_3_Adversarial_Lifecycle/README.md)** | The full attack. Using **Nmap** for discovery, then **Metasploit** to exploit the flaws found in the Nessus scan. | **Completed** | Nmap, Kali Linux, Port Scanning, Service Versioning, Metasploit. |
 
 <br>
 
@@ -31,6 +31,6 @@ The following labs are slated for development following the completion of the **
 
 ---
 
-**Current Status:** Focused on high-stakes operatic contract completion. May 2026 is dedicated to the **Technical Bridge** baseline sprint—practical verification of PenTest+ theory via Nmap and Metasploit labs.
+**Current Status:** The **Technical Bridge** baseline sprint (May 2026) is officially complete. Practical verification of PenTest+ theory via Nmap reconnaissance and Metasploit exploitation has been successfully executed and documented.
 
 
