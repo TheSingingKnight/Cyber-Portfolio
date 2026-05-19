@@ -19,8 +19,8 @@ In line with my **"Measure Four Times and Cut Once"** philosophy, I prioritise t
 
 | Project Title | Focus | Status | Expected Skills/Tools |
 | :--- | :--- | :--- | :--- |
-| **Windows Endpoint Monitoring & SIEM Ingestion** | Building visibility. Deploying **Sysmon** on Windows 10 and ingesting logs into **Splunk**.  | **Planned: May 2026** | Splunk (SIEM), VirtualBox, Sysmon, Win10 VM. |
-| **Vulnerability Management & Risk Assessment (Nessus)** | Scanning the range. Performing credentialed audits of the Windows VM and Metasploitable 2. | **Planned: May 2026** | Nessus Essentials, Risk Assessment, CVSS Scoring. | 
+| **[Windows Endpoint Monitoring & SIEM Ingestion](Project_1_Endpoint_Monitoring/README.md)** | Building visibility. Deploying **Sysmon** on Windows 10 and ingesting logs into **Splunk**. | **Completed** | Splunk (SIEM), VirtualBox, Sysmon, Win10 VM. |
+| **[Vulnerability Management & Risk Assessment (Nessus)](Project_2_Vulnerability_Management/README.md)** | Scanning the range. Performing credentialed audits of the Windows VM and Metasploitable 2. | **Completed** | Nessus Essentials, Risk Assessment, CVSS Scoring. | 
 
 <br>
 
@@ -33,6 +33,5 @@ The following labs are slated for development following the completion of the **
 
 ---
 
-**Current Status:** Relocated for high-stakes operatic contract completion. May 2026 is designated for the **Technical Bridge** baseline sprint—deploying primary Splunk and Nessus labs to strengthen the practical gap in defensive operations.
-
+**Current Status:** The **Technical Bridge** baseline sprint (May 2026) is officially complete. Primary Splunk ingestion and Nessus scanning labs have been successfully deployed, bridging the practical gap in defensive operations.
 
