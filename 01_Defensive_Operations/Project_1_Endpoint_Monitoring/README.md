@@ -44,27 +44,28 @@ Following a "Security by Design" approach, I built a segmented environment to pr
 ### [Screenshot 1 - The Cyber Range]
 A view of the VirtualBox Manager showing the segmented lab architecture.
 
-![The Cyber Range](images/P1_R1_Cyber_Range.png)
+![The Cyber Range](images/P1_R1_CyberRange_Architecture.png)
 
 ### [Screenshot 2 - Connectivity Proof]
-A Splunk search result confirming the Win10-Defensive host is successfully shipping real-time telemetry.
+A Splunk search result for index=main confirming the Win10-Defensive host is successfully shipping real-time telemetry.
 
-![Connectivity Proof](images/P1_R2_Connectivity_Proof.png)
+![Connectivity Proof](images/P1_R2_Splunk_Connectivity_Proof.png)
 
 ### [Screenshot 3 - Granular Ingestion]
-A high-fidelity search proving Sysmon is successfully capturing kernel-level activity.
+A high-fidelity search for index=main whoami proving Sysmon is successfully capturing kernel-level activity.
 
-![Granular Ingestion](images/P1_R3_Granular_Ingestion.png)
+![Granular Ingestion](images/P1_R3_Sysmon_Ingestion_Confirmation.png)
 
 ### [Screenshot 4 - The "Whoami" Capture]
-Result of `EventCode=1` (Process Creation) showing the system tracking a specific analyst command.
+Result of EventCode=1 (Process Creation) showing the system tracking a specific analyst command.
 
-![The Whoami Capture](images/P1_R4_Whoami_Capture.png)
+![The Whoami Capture](images/P1_R4_Telemetry_Whoami_Test.png)
 
 ### [Screenshot 5 - Tactical Visualization]
-A bar chart generated to demonstrate the ability to transform raw logs into security intelligence.
+A bar chart generated via stats count by EventCode to demonstrate the ability to transform raw logs into security intelligence.
 
-![Tactical Visualization](images/P1_R5_Tactical_Visualization.png)
+![Tactical Visualization](images/P1_R5_Splunk_EventID_Visualization.png)
+
 
 ---
 
