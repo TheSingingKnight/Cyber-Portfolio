@@ -19,7 +19,7 @@ In line with my **"Measure Four Times and Cut Once"** philosophy, I prioritise t
 
 | Project Title | Focus | Status | Expected Skills/Tools |
 | :--- | :--- | :--- | :--- |
-| **Windows Endpoint Monitoring & SIEM Ingestion ** | Building visibility. Deploying **Sysmon** on Windows 10 and ingesting logs into **Splunk**.  | **Planned: May 2026** | Splunk (SIEM), VirtualBox, Sysmon, Win10 VM. |
+| **Windows Endpoint Monitoring & SIEM Ingestion** | Building visibility. Deploying **Sysmon** on Windows 10 and ingesting logs into **Splunk**.  | **Planned: May 2026** | Splunk (SIEM), VirtualBox, Sysmon, Win10 VM. |
 | **Vulnerability Management & Risk Assessment (Nessus)** | Scanning the range. Performing credentialed audits of the Windows VM and Metasploitable 2. | **Planned: May 2026** | Nessus Essentials, Risk Assessment, CVSS Scoring. | 
 
 <br>
