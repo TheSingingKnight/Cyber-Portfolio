@@ -17,7 +17,7 @@ In line with my **"Measure Four Times and Cut Once"** philosophy, every project 
 
 | Project Title | Goal | Key Skills Demonstrated | Status |
 | :--- | :--- | :--- | :--- |
-| **Log Ingestion & Parsing Tool** | A Python script that extracts key fields (IPs, timestamps) from raw logs and outputs structured data. | Python, File I/O, Regex, Error Handling. | **Planned: May 2026** |
+| **Log Ingestion & Parsing Tool** | A Python script that extracts key fields (IPs, timestamps) from raw logs and outputs structured data. | Python, File I/O, Regex, Error Handling. | **Planned: June-August 2026** |
 
 <br>
 
@@ -30,4 +30,6 @@ As my development roadmap expands, the following utilities are slated for produc
 
 ---
 
-**Current Status:** Focused on core Python logic maintenance. **May 2026** is dedicated to the development of the Log Ingestion & Parsing Tool as a primary foundational utility.
+**Current Status:** Focused on core Python logic maintenance. The development of the Log Ingestion & Parsing Tool as a primary foundational utility has been strategically rescheduled to the **June–August 2026** window to accommodate a heavy international performance cycle.
+
+
