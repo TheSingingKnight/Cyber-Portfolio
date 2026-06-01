@@ -33,5 +33,7 @@ The following labs are slated for development following the completion of the **
 
 ---
 
-**Current Status:** The **Technical Bridge** baseline sprint (May 2026) is officially complete. Primary Splunk ingestion and Nessus scanning labs have been successfully deployed, bridging the practical gap in defensive operations.
+**Current Status:** The **Technical Bridge** baseline sprint (May 2026) is officially complete. Primary Splunk ingestion and Nessus scanning labs have been successfully deployed, bridging the practical gap in defensive operations. I am currently engaged in a dense, international operatic touring schedule (June-August 2026) while actively focusing on the physical hardening of my primary home laboratory and the creation of a secure mobile environment.
+
+
 
