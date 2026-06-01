@@ -31,6 +31,6 @@ The following labs are slated for development following the completion of the **
 
 ---
 
-**Current Status:** The **Technical Bridge** baseline sprint (May 2026) is officially complete. Practical verification of PenTest+ theory via Nmap reconnaissance and Metasploit exploitation has been successfully executed and documented.
+**Current Status:** The **Technical Bridge** baseline sprint (May 2026) is officially complete. Practical verification of PenTest+ theory via Nmap reconnaissance and Metasploit exploitation has been successfully executed and documented. I am currently engaged in a dense, international operatic touring schedule (June-August 2026) while actively focusing on the physical hardening of my primary home laboratory and the creation of a secure mobile environment.
 
 
