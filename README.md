@@ -36,8 +36,8 @@ To maintain professional transparency, project status is updated according to my
 
 | Pillar | Focus | Key Concepts & Tools | Status |
 | :--- | :--- | :--- | :--- |
-| [**1. Defensive Operations**](./01_Defensive_Operations) | Threat detection and monitoring. | Splunk, Sysmon, Nessus, CVSS. | **Active: May 2026** |
-| [**2. Offensive Operations**](./02_Offensive_Operations) | Reconnaissance and scanning. | Kali Linux, Metasploit, Nmap. | **Active: May 2026** |
+| [**1. Defensive Operations**](./01_Defensive_Operations) | Threat detection and monitoring. | Splunk, Sysmon, Nessus, CVSS. | **Completed (May 2026)** |
+| [**2. Offensive Operations**](./02_Offensive_Operations) | Reconnaissance and scanning. | Kali Linux, Metasploit, Nmap. | **Completed (May 2026)** |
 | [**3. Scripting & Automation**](./03_Scripting_Automation) | Learning journey & functional utilities. | Python (Logic & Flow), Bash. | **Active Revision** |
 
 ---
@@ -45,7 +45,19 @@ To maintain professional transparency, project status is updated according to my
 
 ## 📡 Strategic Operational Status: 
 
-**May 2026 (Current)**
+**June – August 2026 (Current)**
+
+I am currently navigating a **High-Performance Hybrid** schedule, balancing a dense international operatic touring period with strategic upgrades to my technical infrastructure.
+
+* **🎭 Current Location:** International Touring (Base: Ripon and London, UK).
+* **🏛️ Completed The Technical Bridge (May 2026)**: Successfully executed and documented a 4-week "Cyber Range" operation, demonstrating the unified deployment of Splunk SIEM, Nessus vulnerability management, and Metasploit adversarial lifecycles. 
+* **🛠️ Active Mission: Infrastructure Hardening & Mobile SOC:** Actively implementing physical and operational hardening of my primary home cyber setup. Simultaneously engineering a secure, functional "Mobile SOC" to maintain technical readiness while away on location.
+* **🐍 Active Mission: Logic Revision:** Maintaining a "Methodical Maintenance" track during travel windows, focusing on the revision and reinforcement of foundational Python and scripting logic.
+* **🔭 Upcoming: Late Summer / Autumn Hiring Cycle (2026):** Shifting full focus toward securing a Junior Security Analyst or Consulting Academy role as the intensive performance season concludes. 
+<br>
+
+
+**May 2026 (Complete)**
 
 I am currently executing a High-Intensity Technical Sprint, applying the elite discipline of professional performance to the deployment of enterprise-grade security controls.  
 
