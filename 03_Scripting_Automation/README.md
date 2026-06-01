@@ -26,4 +26,4 @@ These projects focus on:
 
 ---
 
-**Current Status:** Active revision of foundational modules. **May 2026** is designated for a "Methodical Maintenance" track, re-establishing core logic alongside primary security lab work.
+**Current Status:** Active revision of foundational modules. I am currently engaged in a dense, international operatic touring schedule (June-August 2026) while actively focusing on the physical hardening of my primary home laboratory and the creation of a secure mobile environment.
